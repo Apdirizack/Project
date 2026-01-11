@@ -2,6 +2,4 @@
 
 💻 Full Stack Developer  
 🌍 Somalia  
-🚀 Learning Node.js, React & Flutter  
-
-📫
+🚀 Learning Node.js, React & Flutter
