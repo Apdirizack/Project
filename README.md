@@ -2,6 +2,6 @@
 
 💻 Full Stack Developer  
 🌍 Somalia  
-🚀 Learning Node.js, React & Spring Boot  
+🚀 Learning Node.js, React & Flutter  
 
-📫 Contact: your-email@gmail.com
+📫
